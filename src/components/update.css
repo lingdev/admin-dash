@@ -1,0 +1,26 @@
+.update{
+    background-color: white;
+    width: 30em;
+    height: 35em;
+    position: relative;
+    border-radius: 1em;
+    box-shadow: 0 0.188em 1.550em rgb(100,150,100);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center ;
+}
+
+.update-btn{
+    width: 20% ;
+    height: 3em;
+    background-color: rgb(88, 115, 130);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.5s;
+    border-radius: 0.25em;
+    cursor: pointer;
+    color: white;
+    margin-right:  30px;
+}

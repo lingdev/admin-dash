@@ -1,0 +1,1 @@
+export const API_URL= 'https://634ecf294af5fdff3a67b6f6.mockapi.io/datauser'
